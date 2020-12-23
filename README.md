@@ -1,5 +1,7 @@
 # sqlmap-cheat-sheet
-sqlmap cheat sheet
+
+(*) It might work for all versions. 
+(-) Does not apply
 
 | TAMPER                    | MySQL         | MSSQL      | Oracle | PostgreSQL  |
 |---------------------------|---------------|------------|--------|-------------|
